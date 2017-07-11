@@ -1,16 +1,11 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package chapter3.varianta.car.entities;
 
 import chapter3.varianta.car.enums.Color;
 import chapter3.varianta.car.enums.Mark;
-import java.util.Random;
 
 /**
  *
- * @author SLAVA
+ * @author Sukhocheva Maryana
  */
 public class Car {
     private int id;
